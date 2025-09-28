@@ -1,3 +1,10 @@
+## ⌨️ Install depuis homebrew :
+
+brew tap chupchupchup/img2jpg
+brew install --cask img2jpg-optimizer
+
+---
+
 # 🖼️ IMG2JPG Optimizer
 
 [![GitHub release](https://img.shields.io/github/v/release/chupchupchup/IMG2JPG-Optimizer)](https://github.com/chupchupchup/IMG2JPG-Optimizer/releases)
