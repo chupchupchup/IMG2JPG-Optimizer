@@ -1,6 +1,7 @@
 ## ⌨️ Install depuis homebrew :
 
 brew tap chupchupchup/img2jpg
+
 brew install --cask img2jpg-optimizer
 
 ---
