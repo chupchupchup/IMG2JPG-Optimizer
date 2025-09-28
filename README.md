@@ -1,44 +1,61 @@
-# IMG2JPG Optimizer (Mac Silicon)
+# 🖼️ IMG2JPG Optimizer
 
-## 🖼️ Qu’est-ce que c’est ?
-**IMG2JPG Optimizer** est une petite application macOS (Apple Silicon M1/M2/M3/M4) qui permet d’optimiser vos images **JPEG, PNG, HEIC, GIF, WebP…** en les convertissant en JPEG progressifs optimisés.  
-L’app est autonome (aucun besoin d’installer Homebrew ou d’autres dépendances).  
+[![GitHub release](https://img.shields.io/github/v/release/chupchupchup/IMG2JPG-Optimizer)](https://github.com/chupchupchup/IMG2JPG-Optimizer/releases)
+[![Platform](https://img.shields.io/badge/platform-macOS%20Apple%20Silicon-blue)]()
+[![License](https://img.shields.io/badge/license-Freeware%20%2F%20Donationware-brightgreen)]()
 
-👉 Basée sur **MozJPEG v4.1** et ses optimisations (Huffman optimisé, compression progressive, réduction de la taille des tables de quantification).  
-👉 Conversion PNG/HEIC/GIF → JPEG via **ImageMagick** intégré.  
+## ⚡ Qu’est-ce que c’est ?
+**IMG2JPG Optimizer** est une application **macOS Apple Silicon** (M1, M2, M3, M4) qui optimise vos images JPEG, PNG, HEIC, GIF et WebP en les convertissant en **JPEG progressifs optimisés** via [MozJPEG v4](https://github.com/mozilla/mozjpeg).  
+
+- Compression **Huffman optimisée**  
+- JPEG progressifs (meilleur rendu web)  
+- Conversion PNG/HEIC/GIF/WebP → JPEG via **ImageMagick** intégré  
+- **Application autonome** : aucun besoin d’installer Homebrew, MozJPEG ou ImageMagick séparément  
+- Interface simple : **glisser-déposer**, comme [ImageOptim](https://imageoptim.com), mais repensé pour macOS Apple Silicon  
 
 ---
 
 ## 🚀 Pourquoi l’utiliser ?
-- Réduit la taille des images de **20 à 40 %** sans perte visible de qualité.  
-- Compatible avec tous les navigateurs et apps.  
-- Fonctionne en glisser-déposer, comme ImageOptim, mais optimisé pour macOS Apple Silicon.  
-- Gain de temps énorme pour préparer des images pour le web, des présentations ou partager rapidement.  
+- Taille des images réduite de **20 à 40 %** sans perte visuelle  
+- Gain de temps énorme pour préparer des images pour le **web**, des **présentations** ou des **envois rapides**  
+- Compatible avec tous les navigateurs et éditeurs  
 
 ---
 
-## 📦 Installation
-1. Téléchargez le fichier [IMG2JPG-Optimizer.dmg](releases/latest).  
-2. Glissez **IMG2JPG-Optimizer.app** dans votre dossier **Applications**.  
-3. La première fois : clic droit → *Ouvrir* → *Autoriser*.  
+## 📥 Téléchargement
+👉 [Dernière version (DMG)](https://github.com/chupchupchup/IMG2JPG-Optimizer/releases/latest)  
+
+Installation :  
+1. Téléchargez le `.dmg`  
+2. Glissez l’app dans **Applications**  
+3. Première ouverture : clic droit → *Ouvrir* → *Autoriser*  
+
+---
+
+## 📸 Captures d’écran
+
+![Fenêtre principale](screenshots/capture1.png)  
+*Glisser-déposer des fichiers dans l’application*
+
+![Résultat après optimisation](screenshots/capture2.png)  
+*Affichage des fichiers optimisés avec MozJPEG*
 
 ---
 
 ## 🖥️ Compatibilité
-- macOS 12+ (Apple Silicon M1, M2, M3, M4).  
-- Ne nécessite **aucun logiciel supplémentaire**.  
+- macOS 12+ (Monterey et suivants)  
+- Mac Apple Silicon (M1/M2/M3/M4)  
+- Pas besoin de Rosetta, tous les binaires sont **arm64 natifs**  
 
 ---
 
 ## 🙏 Remerciements
-- **Mozilla** pour [MozJPEG](https://github.com/mozilla/mozjpeg).  
-- L’équipe **ImageMagick**.  
-- Apple Silicon pour la vitesse 😅.  
+- [Mozilla](https://github.com/mozilla/mozjpeg) pour **MozJPEG v4**  
+- [ImageMagick](https://imagemagick.org) pour la conversion multi-formats  
+- La communauté open source ✨  
 
 ---
 
-## 💝 Licence et usage
-Logiciel librement distribué en tant que **freeware / donationware**.  
-Utilisation gratuite → vous pouvez faire un don si vous voulez soutenir le développement.  
-
----
+## 💝 Licence
+Distribué en tant que **Freeware / Donationware**.  
+Utilisation gratuite — vous pouvez contribuer ou faire un don pour soutenir le projet.  
