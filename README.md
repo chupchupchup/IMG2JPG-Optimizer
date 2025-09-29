@@ -64,6 +64,9 @@ Installation:
 
 ---
 
+In macOS 26 you can authorize the app under **System Settings > Privacy & Security**
+and click "Open Anyway".
+
 ## 💝 License
 Distributed as **Freeware / Donationware**.  
 Free to use — you can contribute or donate to support the project.
