@@ -19,7 +19,7 @@ brew install --cask img2jpg-optimizer
 - JPEG progressifs (meilleur rendu web)  
 - Conversion PNG/HEIC/GIF/WebP → JPEG via **ImageMagick** intégré  
 - **Application autonome** : aucun besoin d’installer Homebrew, MozJPEG ou ImageMagick séparément  
-- Interface simple : **glisser-déposer**, comme [ImageOptim](https://imageoptim.com), mais repensé pour macOS Apple Silicon  
+- Interface simple : **glisser-déposer** pensé pour macOS Apple Silicon  
 
 ---
 
