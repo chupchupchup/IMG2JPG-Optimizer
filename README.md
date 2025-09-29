@@ -54,7 +54,8 @@ Installation:
 - macOS 12+ (Monterey and later)  
 - Mac Apple Silicon (M1/M2/M3/M4)  
 - No Rosetta needed, all binaries are **native arm64**  
-
+In macOS 26 you can authorize the app under **System Settings > Privacy & Security**
+and click "Open Anyway".
 ---
 
 ## 🙏 Credits
@@ -64,8 +65,6 @@ Installation:
 
 ---
 
-In macOS 26 you can authorize the app under **System Settings > Privacy & Security**
-and click "Open Anyway".
 
 ## 💝 License
 Distributed as **Freeware / Donationware**.  
