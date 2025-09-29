@@ -18,13 +18,13 @@ brew install --cask img2jpg-optimizer
 - Compression **Huffman optimisée**  
 - JPEG progressifs (meilleur rendu web)  
 - Conversion PNG/HEIC/GIF/WebP → JPEG via **ImageMagick** intégré  
-- **Application autonome** : aucun besoin d’installer Homebrew, MozJPEG ou ImageMagick séparément  
+- **Application autonome**  
 - Interface simple : **glisser-déposer** pensé pour macOS Apple Silicon  
 
 ---
 
 ## 🚀 Pourquoi l’utiliser ?
-- Taille des images réduite de **20 à 40 %** sans perte visuelle  
+- Taille des images réduite de **20 à 70 %** sans perte visuelle  
 - Gain de temps énorme pour préparer des images pour le **web**, des **présentations** ou des **envois rapides**  
 - Compatible avec tous les navigateurs et éditeurs  
 
